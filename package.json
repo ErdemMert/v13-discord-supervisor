@@ -1,12 +1,12 @@
 {
-  "name": "borangkdn",
+  "name": "oxygen",
   "version": "0.0.1",
-  "description": "BoranGkdn tarafından yapılan süpervizör bot.",
-  "main": "borangkdn.js",
+  "description": "oxygen .",
+  "main": "oxygen.js",
   "scripts": {
-    "start": "node borangkdn.js"
+    "start": "node oxygen.js"
   },
-  "author": "BoranGkdn",
+  "author": "oxygen",
   "license": "MIT",
   "dependencies": {
     "@discordjs/voice": "^0.7.5",
@@ -21,6 +21,6 @@
     "quick.db": "^7.1.3"
   },
   "keywords": [
-    "BoranGkdn"
+    "oxygen"
   ]
 }
