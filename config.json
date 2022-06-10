@@ -1,89 +1,89 @@
 {
     "bot": {
         "token": "BOT TOKENİNİZİ MAİN KISMINA GİRİNİZ 49. SATIRDA",
-        "owner": "KESİNLİKLE KENDİ İDNİ GİR YOKSA ÇALIŞMAZ",
+        "owner": "836270588695543848",
         "prefix": ".",
-        "BotStatus": "YOUTUBE BORANGKDN",
-        "BotFooter": "YOUTUBE BORANGKDN",
+        "BotStatus": "oxygen",
+        "BotFooter": "oxygen",
         "cooldown": 8
     },
     "penals": {
         "ban": {
-            "staff": "BAN YETKİLİSİ ID",
-            "log": "BAN LOG ID",
+            "staff": "983020104797290548",
+            "log": "983020107192234089",
             "limit": 3
         },
         "jail": {
-            "staff": "JAİL YETKİLİSİ ID",
-            "roles": "CEZALI ROLÜ ID",
-            "log": "CEZA LOG ID",
+            "staff": "983020104797290546",
+            "roles": "983020104453341240",
+            "log": "983020107192234091",
             "limit": 5
         },
         "mute": {
-            "staff": "MUTE YETKİLİSİ ID",
-            "roles": "SUSTURURULMUS ROLÜ ID",
-            "log": "MUTE LOG ID",
+            "staff": "983020104755326985",
+            "roles": "983020104453341239",
+            "log": "983020107192234090",
             "limit": 5
         },
         "warn": {
-            "staff": "WARN YETKİLİSİ ID",
-            "log": "WARN LOG ID"
+            "staff": "983020104755326983",
+            "log": "983020107481612294"
         },
         "transport": {
-            "staff": "TAŞIYICI YETKİLİSİ ID"
+            "staff": "983020104822440026"
         },
         "points": {
             "mutepoints": "10",
-            "banpoints": "30",
-            "jailpoints": "20",
+            "banpoints": "50",
+            "jailpoints": "25",
             "warnpoints": "5"
         }
     },
     "logs": {
-        "taglog": "TAG LOG ID",
-        "rollog": "ROL LOG ID",
-        "messagelog": "MESAJ LOG ID",
-        "seslog": "SES LOG ID"
+        "taglog": "983020107481612289",
+        "rollog": "983020107481612295",
+        "messagelog": "983020107481612288",
+        "seslog": "983020107481612290"
     },
     "roles": {
-        "vip": "VİP ROL ID",
-        "sponsor": "SPONSOR ROL ID",
-        "müzisyen": "MÜZİSYEN ROL ID",
-        "team": "TAGLI ROL ID"
+        "vip": "983020104755326978",
+        "sponsor": "983020104755326979",
+        "müzisyen": "983020104453341243",
+        "team": "983020104755326976"
     },
     "channels": {
-        "chat": "CHAT KANALI ID",
-        "voicechannel": "BOT SES KANALI ID",
-        "welcomechannel": "HOŞ GELDİN KANALI ID",
-        "rules": "KURALLAR KANALI ID"
+        "chat": "983020105300602888",
+        "voicechannel": "983020105711640672",
+        "welcomechannel": "983020104855982127",
+        "rules": "983020105300602882"
     },
     "registration": {
-        "unregistered": "KAYITSIZ ROL ID",
-        "man": ["ERKEK ROL ID", "2. ERKEK ROL ID"],
-        "woman": ["KADIN ROL ID", "2. ERKEK ROL ID"],
-        "yetkilialim": "YETKİLİ ALIM ROL ID",
-        "staff": "REGİSTER ROL ID",
-        "enaltyetkilirolü": "EN ALT YETKİLİ ROL ID",
-        "GuilDTag": "SUNUCU TAGINIZ",
-        "TagSymbol": "ISIM YAŞIN ÖNÜNE KOYULACAK SEMBOL",
+        "unregistered": "983020104734371903",
+        "man": ["983020104734371908", "2. ERKEK ROL ID"],
+        "woman": ["983020104734371909", "2. ERKEK ROL ID"],
+        "yetkilialim": "983020104822440035",
+        "staff": "983020104755326982",
+        "enaltyetkilirolü": "983020104755326981",
+        "GuilDTag": "xx",
+        "TagSymbol": "• ",
         "autonickname": "$ İsim | Yaş",
         "symbol": "|",
-        "suspecios": "ŞÜPHELİ ROL ID",
+        "suspecios": "983020104734371902",
         "susoeciosnickname": "Şüpheli Hesap",
         "oneman": "1. ERKEK ROLU",
         "onewoman": "2. ERKEK ROLU",
-        "minage": 13, 
+        "minage": 14, 
         "purchase": false
     },
     "Guild": {
-        "GuildID": "SUNUCU ID",
-        "GuilDName": "BoranGkdn Video",
-        "GuildOwnerRole": ["SUNUCU OWNER ROL ID"]
+        "GuildID": "983020104453341235",
+        "GuilDName": "oxygen",
+        "GuildOwnerRole": ["983020104822440033"]
     },
     "emojis": {
-        "tada": "TADA EMOJİSİ",
-        "yes": "ONAY EMOJİSİ",
-        "no": "RED EMOJİSİ"
+        "tada": "984892435186470932",
+        "yes": "984892423543066664",
+        "no": "984892429415120986"
 
     }
 } 
